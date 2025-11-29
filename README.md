@@ -21,7 +21,7 @@
 
 
 ## 📌 Featured Projects  
-- [**Research Paper Summarizer and Audio Translator**](https://github.com/Dhanush170/st-rpsat-app) — A Streamlit-based web app that extracts text from PDF research papers, summarizes it using Hugging Face Transformers, translates into 15+ languages via Google Translate, and converts the output into audio using gTTS.
+- [**Research Paper Summarizer and Audio Translator**](https://github.com/Dhanush170/RPSAT) — A RAG based Summarizer that extracts text from PDF research papers, summarizes it using Hugging Face Transformers, translates into 15+ languages via Google Translate, and converts the output into audio using gTTS.
 - [**Crop Recommendation System**](https://github.com/Dhanush170/data-sprint-final-app) — A Flask-based application that suggests the most suitable crop and fertilizer based on soil nutrients, rainfall, pH levels, and live weather data retrieved from the OpenWeatherMap API.
 
 
